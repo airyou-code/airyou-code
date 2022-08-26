@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=airyou-code)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=airyou-code)](https://git.io/streak-stats)
 <!--
 **airyou-code/airyou-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
